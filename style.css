@@ -1,0 +1,23 @@
+h1{
+   color:#eeeeee;
+   text-align:center;
+}
+h2{
+    color:antiquewhite;
+    text-align:left
+}
+p{
+    color: #eeeeee;
+}
+.menu_web{
+    text-align:center;
+}
+.menu{
+    color:#eeeeee;
+}
+.body_web{
+    background-color:#0b5394;
+}
+p{
+    word-spacing: 2px;
+}
